@@ -1,1 +1,1 @@
-# -qa_guru_8_16
+# Homework for lesson 8_16
